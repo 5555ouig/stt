@@ -5,8 +5,7 @@ x5bzteam.on("ready", () => {
     onstart();
 });
 x5bz = "522126950421233675";
-nick = "! sh5b6h - Anas
-";
+nick = "! sh5b6h - Anas";
 function onstart(){
     var v1 = nick.split('');
     var counter;
