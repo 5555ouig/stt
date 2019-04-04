@@ -1,11 +1,12 @@
 const Eris = require("eris");
-var x5bzteam = new Eris("mfa.6DAzKfOurTXaVAGYWXr7cyPgMyiFC-FWf2leXAHC-pN1j7iIEyYezVB8G-4sKoeHQ12jN-vBGj9A-js-VRAK");
+var x5bzteam = new Eris(process.env.BOT_TOKEN);
 x5bzteam.on("ready", () => {
     console.log("Yo! Changer [ON]");
     onstart();
 });
 x5bz = "522126950421233675";
-nick = ">>>";
+nick = "! sh5b6h - Anas
+";
 function onstart(){
     var v1 = nick.split('');
     var counter;
